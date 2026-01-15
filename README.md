@@ -19,8 +19,7 @@ The objective of this project is to build a Linear Regression model to help Jamb
 
 Follow these steps to set up the project environment and run it locally.
 
-### 1️ Clone the Repository
-```bash
+### 1 Clone the Repository
 git clone https://github.com/Aravind-91/JamboreeEducation--LinearRegression
 cd JamboreeEducation-LinearRegression
 
@@ -32,7 +31,7 @@ If you see a script execution error, run:
 
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
-### Install Dependencies
+### 3 Install Dependencies
 pip install -r requirements.txt
 
 
