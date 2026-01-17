@@ -37,17 +37,17 @@ pip install -r requirements.txt
 ```
 
 ### Data Overview
-Source : Scaler
-Size of Data : (500, 9)
-Column Profiling :
-    1. Serial No. (Unique row ID)
-    2. GRE Scores (out of 340)
-    3. TOEFL Scores (out of 120)
-    4. University Rating (out of 5)
-    5. Statement of Purpose and Letter of Recommendation Strength (out of 5)
-    6. Undergraduate GPA (out of 10)
-    7. Research Experience (either 0 or 1)
-    8. Chance of Admit (ranging from 0 to 1)
+Source : Scaler<br>
+Size of Data : (500, 9)<br>
+Column Profiling :<br>
+    1. Serial No. (Unique row ID)<br>
+    2. GRE Scores (out of 340)<br>
+    3. TOEFL Scores (out of 120)<br>
+    4. University Rating (out of 5)<br>
+    5. Statement of Purpose and Letter of Recommendation Strength (out of 5)<br>
+    6. Undergraduate GPA (out of 10)<br>
+    7. Research Experience (either 0 or 1)<br>
+    8. Chance of Admit (ranging from 0 to 1)<br>
 
 ### Concepts Used:
     1. Exploratory Data Analysis
