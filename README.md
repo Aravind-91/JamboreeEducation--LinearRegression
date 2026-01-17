@@ -29,10 +29,29 @@ python -m venv venv
 .\venv\Scripts\Activate.ps1
 
 If you see a script execution error, run:
-
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ### 3 Install Dependencies
 pip install -r requirements.txt
+
+```
+
+### Data Overview
+Source : Scaler
+Size of Data : (500, 9)
+Column Profiling :
+    1. Serial No. (Unique row ID)
+    2. GRE Scores (out of 340)
+    3. TOEFL Scores (out of 120)
+    4. University Rating (out of 5)
+    5. Statement of Purpose and Letter of Recommendation Strength (out of 5)
+    6. Undergraduate GPA (out of 10)
+    7. Research Experience (either 0 or 1)
+    8. Chance of Admit (ranging from 0 to 1)
+
+### Concepts Used:
+    1. Exploratory Data Analysis
+    2. Linear Regression
+
 
 
